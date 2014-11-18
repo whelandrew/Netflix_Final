@@ -14,16 +14,16 @@ div{
 #topframe
 {
 	position:fixed;
-	left:25%;
+	left:69px;
 	background:rgb(185,9,11);
-	width:70em;
+	width:75em;
 	height:7em;
 }
 
 div#navigationBackground
 {
 	position: fixed;
-	left:25%;
+	left:69px;
 	top:7em;
 	width:20em;
 	background: rgb(48,48,48);
@@ -68,8 +68,8 @@ div#contentBackground
 {
 	position:fixed;
 	top:7em;
-	left:40%;
-	width:50em;
+	left:389px;
+	width:55em;
 	background: rgb(76,70,70);
 	height:42em;
 	overflow: hidden;
@@ -109,4 +109,9 @@ div#contentBackground
 	position:relative;
 	color:lightGrey;
 	font-size:xx-large;
+}
+
+.content
+{
+	margin:0% 0% 0% 4.5%;
 }
